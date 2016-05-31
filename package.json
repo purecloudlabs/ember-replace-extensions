@@ -1,0 +1,20 @@
+{
+  "name": "ember-replace-extensions",
+  "version": "1.0.0",
+  "description": "changes Function extensions to Ember wraps",
+  "main": "index.js",
+  "bin": {
+    "ember-replace-extensions": "bin/ember-replace-extensions.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Chris Andrejewski",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
